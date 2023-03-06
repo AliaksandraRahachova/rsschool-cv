@@ -13,9 +13,9 @@
 
 [LinkedIn](https://www.linkedin.com/in/aliaksandra-rahachova-47600b1ab/)
 
-## Summary
+## About me
 ***
-
+I have a keen interest in front-end development. I am highly motivated to gain experience during the RS School study to build a strong base for a successful career.
 ***
 ## Skills
 * HTML
