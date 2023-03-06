@@ -1,31 +1,27 @@
 # Aliaksandra Rahachova
 ![Cat](internet-cats.jpg)
 ## Contact information
-**Phone:** +34 666 33 56 98
-
-**E-mail:** klaustrafobiyakl@gmail.com
-
-**GitHub:** AliaksandraRahachova
-
-**Discord:** Aliaksandra (@rahachova)
-
-**Telegram:** @barenzziah
-
-[LinkedIn](https://www.linkedin.com/in/aliaksandra-rahachova-47600b1ab/)
+* **Phone:** +34 666 33 56 98
+* **E-mail:** klaustrafobiyakl@gmail.com
+* **GitHub:** rahachova
+* **Discord:** Aliaksandra (@rahachova)
+* **Telegram:** @barenzziah
+* [LinkedIn](https://www.linkedin.com/in/aliaksandra-rahachova-47600b1ab/)
 
 ## About me
-***
+
 I have a keen interest in front-end development. I am highly motivated to gain experience during the RS School study to build a strong base for a successful career.
-***
+
 ## Skills
 * HTML
 * CSS
 * JavaScript Basics
 * Git, GitHub
 * VS Code, IntelliJ IDEA
-***
+
 ## Code Example
 >You get an array of numbers, return the sum of all of the positives ones. If there is nothing to sum, the sum is default to 0.
+
 ``` 
 function positiveSum(arr) {
     return arr.reduce((sum, elementOfArray) => {
@@ -34,13 +30,11 @@ function positiveSum(arr) {
 } 
 ```
 
-***
 ## Education
 * Belarusian State Technological University 
 
     _Technology of Medicinal Drugs_
 
-***
 ## Languages
 * Belarusian - Native
 * Russian - Native
